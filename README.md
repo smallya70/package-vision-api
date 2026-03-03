@@ -17,3 +17,5 @@ The API translates visual data into standard material management routing decisio
 * **AI/Vision:** YOLOv26, OpenCV
 * **Backend:** FastAPI, Uvicorn, Pydantic
 * **Environment:** Python venv
+* ## Project Preview, paste this line:
+![API Response Preview](api_response.png)
